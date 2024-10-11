@@ -600,6 +600,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .reviews{padding:117px 0 75px;}
 .reviews-content {margin-top:36px;}
 
+.reviews p {
+    color: rgb(20, 20, 20);
+}
+
 /*single-testimonial-box */
 .single-testimonial-box  {
     padding: 50px 30px;
@@ -737,6 +741,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .blog{padding:120px 0 90px;}
 .blog-content{margin-top: 80px;}
 
+.blog p {
+    color:rgb(35, 35, 35);
+}
+
 .single-blog-item{
     margin-bottom: 30px;
     box-shadow: 0 0px 5px rgba(71,71,71,.2);
@@ -774,6 +782,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .subscription{
     background: #f8fafb;
     padding:150px 0;
+}
+
+.subscription p {
+    color: rgb(78, 78, 78);
 }
 /*subscribe-title*/
  .subscribe-title {margin-bottom: 52px;}
@@ -860,6 +872,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
         12. Footer
 --------------------------------------*/
 .footer-menu {padding: 45px 0;}
+
+.footer-menu-item {
+    color:rgb(59, 59, 59);
+}
 .footer-menu .navbar-header{padding:0;}
 .footer-menu .navbar-header a.navbar-brand,.footer-menu.footer-menu .navbar-header a.navbar-brand:hover,.footer-menu .navbar-header a.navbar-brand:focus{
     padding:0;
