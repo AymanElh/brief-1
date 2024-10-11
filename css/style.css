@@ -85,6 +85,10 @@ ul li {
 select,input,textarea,button{box-shadow:none;outline:0!important;}
 button {background: transparent;border: 0;font-size: 12px;}
 
+label {
+    color: rgb(68, 68, 68);
+}
+
 html,body{height: 100%;}
 
 [placeholder]:focus::-webkit-input-placeholder {
@@ -148,7 +152,7 @@ html,body{height: 100%;}
     font-weight: 300;
 }
 .select-opt option{
-    color:blue;
+    color: gray;
     text-transform: uppercase;
 }
 .select-opt a span.lnr-magnifier:before {
