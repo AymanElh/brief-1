@@ -121,7 +121,10 @@ html,body{height: 100%;}
 /*-------------------------------------
         2. Header-top
 --------------------------------------*/
-.header-top{border-bottom:1px solid #f6f8fa;}
+.header-top{
+    border-bottom:1px solid #f6f8fa;
+    color: black
+}
 
 .header-top ul li {display: inline-block;}
 
@@ -140,12 +143,12 @@ html,body{height: 100%;}
 .select-opt select {
     border: none;
     cursor:pointer;
-    color:#a7b0ba;
+    color: rgb(101, 101, 101);
     font-size: 12px;
     font-weight: 300;
 }
 .select-opt option{
-    color:#a7b0ba;
+    color:blue;
     text-transform: uppercase;
 }
 .select-opt a span.lnr-magnifier:before {
@@ -159,7 +162,7 @@ html,body{height: 100%;}
 /*.select-opt*/
 
 .header-top-right ul li a{
-    color:#a7b0ba;
+    color:#6a6a6a;
     font-size: 12px;
     font-weight: 300;
 }
@@ -347,6 +350,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     z-index: 1;
 }
 .list-topics-content ul li { display: inline-block;}
+
+.list-topics-content p {
+    color: rgb(35, 35, 35);
+}
 
 .single-list-topics-content{
     display: flex;
