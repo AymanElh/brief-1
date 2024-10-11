@@ -392,6 +392,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .works{padding: 0 0 90px;}
 .works-content {margin-top: 73px;}
 
+.works p {
+    color: rgb(59, 59, 59);
+}
+
 .single-how-works{
     text-align: center;
     padding:50px 42px;
@@ -431,8 +435,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     height: 35px;
     font-size: 12px;
     background: transparent;
-    color: #767f86;
-    border: 1px solid #d3d6d9;
+    color: black;
+    border: 1px solid #575859;
     border-radius: 3px;
 }
 
