@@ -1,35 +1,42 @@
-# Project Name: ListoGo
-================
+# Project Name: listogo
 
 ## Overview
-------------
 
-* Briefly describe the project and its purpose
+This is a web project build with html, css and javascript, this is a project to practice these all languages.
+
 
 ## Features
-------------
 
-* List the key features of your project
+- Modern user interface: Clean and professional design
+- Responsive: This website allows all screens (mobile, tablet, desktop)
+- Easy Customization: Organized project structure for quick and easy modifications.
 
 ## Getting Started
------------------
 
-* Provide instructions on how to get started with your project
+**Git**: Version control system to control and tracking the project.
+**Html**: Hyper text markup language to build the structure of the website.
+**CSS**: Cascading style sheet to design your html website.
+**JavaScrip**: Programing language to add animation to your website.
+
 
 ## Requirements
--------------
 
-* List any dependencies or requirements needed to use your project
+Before you begin, make sure you have the following software installed on your machine.
+
+**Git**: Version control to clone the project repository.
 
 ## Installation
-------------
 
-* Provide instructions on how to install your project
+1. **Clone the reporsitory**: Open your terminal or command promt and run the following command to clone the reporsitory.
+
+    ```bash
+    git clone https://aymanelh.github.io/brief-1/
+    ```
+  
 
 ## Usage
------
 
-* Provide examples of how to use your project
+**Live Demo**: https://aymanelh.github.io/brief-1/
 
 ## Contributing
 ------------
@@ -42,9 +49,9 @@
 * Specify the license under which your project is released
 
 ## Authors
--------
 
-* List the authors of your project
+
+This project was created and maintained by Aymane Benhima. You can find more of my work on [Github](https://github.com/aymanebenhima/STARTER-listogo-v1.0).
 
 ## Acknowledgments
 --------------
