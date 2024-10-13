@@ -23,7 +23,9 @@ This is a web project build with html, css and javascript, this is a project to 
 
 Before you begin, make sure you have the following software installed on your machine.
 
-**Git**: Version control to clone the project repository.
+**Git Bahs**
+**Account Gihub**
+**Vs Code**
 
 ## Installation
 
